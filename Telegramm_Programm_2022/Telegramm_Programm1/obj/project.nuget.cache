@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZIIZJ0N9hYCE0VC7zMVoaEZ0n8o1meKrURKckgpegIJ5ynAPLDQaUO2i+gym2E4n96Fua4HWC9Ln2T/Uu86Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deffe\\source\\repos\\Telegramm_Programm_2022\\Telegramm_Programm1\\Telegramm_Programm1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deffe\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Deffe\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
